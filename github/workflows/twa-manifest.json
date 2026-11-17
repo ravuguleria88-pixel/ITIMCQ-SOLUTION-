@@ -1,0 +1,43 @@
+{
+  "packageId": "in.itimcqsolution.app",
+  "host": "ais-pre-jucpaveh564kkf7uvjro5a-106422717684.asia-northeast1.run.app",
+  "name": "ITI MCQ Solution",
+  "launcherName": "ITI MCQ",
+  "display": "standalone",
+  "themeColor": "#102A43",
+  "themeColorDark": "#102A43",
+  "navigationColor": "#102A43",
+  "navigationColorDark": "#102A43",
+  "navigationDividerColor": "#102A43",
+  "navigationDividerColorDark": "#102A43",
+  "backgroundColor": "#F8FAFC",
+  "enableNotifications": false,
+  "startUrl": "/",
+  "iconUrl": "https://ais-pre-jucpaveh564kkf7uvjro5a-106422717684.asia-northeast1.run.app/pwa-512x512.png",
+  "maskableIconUrl": "https://ais-pre-jucpaveh564kkf7uvjro5a-106422717684.asia-northeast1.run.app/pwa-maskable-512x512.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "./android.keystore",
+    "alias": "iti-mcq-key"
+  },
+  "appVersionName": "1.0.0",
+  "appVersionCode": 1,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://ais-pre-jucpaveh564kkf7uvjro5a-106422717684.asia-northeast1.run.app/manifest.webmanifest",
+  "fallbackType": "customtabs",
+  "features": {},
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "isMetaQuest": false,
+  "fullScopeUrl": "https://ais-pre-jucpaveh564kkf7uvjro5a-106422717684.asia-northeast1.run.app/",
+  "minSdkVersion": 21,
+  "orientation": "portrait",
+  "fingerprints": [],
+  "additionalTrustedOrigins": [],
+  "retainedBundles": [],
+  "appVersion": "1.0.0"
+}
